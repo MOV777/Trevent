@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('fonts/ClearSans.eot');
+    src: url('fonts/ClearSans.eot?#iefix') format('embedded-opentype'),
+        url('fonts/ClearSans.woff2') format('woff2'),
+        url('fonts/ClearSans.woff') format('woff'),
+        url('fonts/ClearSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
